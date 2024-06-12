@@ -1,7 +1,7 @@
 import React from "react";
 import "./Header.css";
 import { NavLink } from "react-router-dom";
-import logo from "../../assets/logo.png";
+import logo from "../../assets/open2.png";
 import { useDispatch, useSelector } from "react-redux";
 import { resetState } from "../../redux/slices/userAuthorSlice";
 

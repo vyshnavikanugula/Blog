@@ -3,21 +3,21 @@
 :root{
   --light-grey:#f1f2f3;
   --medium-grey:#d3d1d1;
-  --light-dark-grey:#808080;
+  --light-dark-grey:#ad98b5;
   --crimson:#1414dc;
-  --light-olive:#bcb88a;
+  --light-olive:#ae6970;
   --dark-green:#ac397a;
 
 }
 body {
   margin: 0;
-  font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   background-color: var(--medium-grey);
 }
 
 code {
-  font-family :'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+  font-family :'Times New Roman', Times, serif
 }
 
